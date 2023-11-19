@@ -823,4 +823,3 @@ void  __hxcpp_memory_memset(Array<unsigned char> &inBuffer ,int pos, int len, in
          memset( inBuffer->Pointer() + pos, value, len);
    }
 }
-
